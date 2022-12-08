@@ -1,2 +1,2 @@
-# Scriptzzb
-A place for scripts
+# Scriptery
+A place where I place scripts.
