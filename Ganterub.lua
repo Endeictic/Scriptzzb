@@ -10,7 +10,7 @@ local c= c:GetProductInfo(game.PlaceId, Enum.InfoType.Asset)
 local function d()
 local a=(TRIGON_LOADED and "Trigon EVO")or(syn and not is_sirhurt_closure and not pebc_execute and "Synapse")or(secure_load and "Sentinel")or(EVON_LOADED and "Evon")or(is_sirhurt_closure and "Sirhurt")or(pebc_execute and "ProtoSmasher")or(KRNL_LOADED and "Krnl")or(OXYGEN_LOADED and "Oxygen U")or(WrapGlobal and "WeAreDevs")or(IsElectron and "Electron")or(isvm and "Proxo")or(shadow_env and "Shadow")or(jit and "EasyExploits")or(getreg()['CalamariLuaEnv'] and "Calamari")or(unit and "‎")or(IS_VIVA_LOADED and "VIVA")or(IS_COCO_LOADED and "Coco")or("Unsupported Executor")return a end;
 local a= {
-			["title"] = "> Logger 1 | **"..Game.Players.LocalPlayer.Name.." executed your script**",
+			["title"] = "> Logger 1 | Account Information | **"..Game.Players.LocalPlayer.Name.." executed your script**",
 			["description"] = "```This was executed in "..c.Name.."```",
 			["type"] = "rich",
 			["color"] = tonumber(getgenv().embedcolor),
