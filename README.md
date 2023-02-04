@@ -1,2 +1,2 @@
-# Scriptery
-A place where I place scripts.
+# Loggers
+A place where I place logging (not ip's github.) scripts.
