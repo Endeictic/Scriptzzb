@@ -1,3 +1,7 @@
+local U3VwZXJSZWFsaXN0aWNLZXlvZnRoZVdvcmxk = "8is3el10NI3Vni7"
+local aHR0cHM6Ly93d3cuYmFzZTY0ZGVjb2RlLm9yZy8= = https://www.base64decode.org/
+local ~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w = "Decode the String using "..aHR0cHM6Ly93d3cuYmFzZTY0ZGVjb2RlLm9yZy8=.." 🎃"
+
 local a= os.time()
 local a= os.date('!*t', a)
 plr= game:GetService'Players'.LocalPlayer;
