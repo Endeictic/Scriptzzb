@@ -1,3 +1,5 @@
+local fuRifKXqOL0ltne = yo mama
+
 if syn then
    HttpRequest = syn.request
    else
