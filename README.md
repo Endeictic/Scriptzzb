@@ -1,4 +1,6 @@
-# The Script
+# THIS IS ALL OPEN SOURCED!!!
+
+## The Script
 ```
 -- Discord Webhook URL
 getgenv().DiscordWebhook = "" -- Put your discord webhook url here
@@ -9,7 +11,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Endeictic/Scriptzzb/m
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Endeictic/Scriptzzb/main/Adolf-AustrianPainter.lua"))()
 
 ```
-## Super secret string
+# Super secret string
 Vm1wSmQwMVdXWGhXV0d4VFlrZG9XVmxVVG05WFZsVjNWbTFHVmxac2NFZFdWM1JQWVdzeGMxTnJiRlZpUjFGNlZVWkZPVkJSUFQwPQ== <-- very secret string
 
 fuRifKXqOL0ltne <-- real accurate string (is it? is it not? YOU DECIDE!!)
