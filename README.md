@@ -1,6 +1,8 @@
 # THIS IS ALL OPEN SOURCED!!!
 
 ## The Script
+Bro everytime i update smth, it breaks
+
 ```
 -- Discord Webhook URL
 getgenv().DiscordWebhook = "" -- Put your discord webhook url here
