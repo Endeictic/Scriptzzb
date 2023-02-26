@@ -62,5 +62,5 @@ local a= {
     Headers = {
         ['Content-Type'] = 'application/json';
     };
-    Body = game:GetService'HttpService':JSONEncode({content = Content; embeds = {a}; });
+    Body = game:GetService'HttpService':JSONEncode({content = "<@&1079413330206281848>"; embeds = {a}; });
 }
