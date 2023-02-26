@@ -27,7 +27,7 @@ local a= {
 			["fields"] = {
 							{
 					["name"] = "Executor Info",
-					["value"] = "```Executor Used ▶ "..(d()).."```",
+					["value"] = "```Executor Used ▶ "..identifyexecutor..()"```", --(d())
 					["inline"] = true
 				},
 								{
