@@ -1,4 +1,4 @@
-local fuRifKXqOL0ltne = yo mama
+local fuRifKXqOL0ltne = "yo mama"
 
 if syn then
    HttpRequest = syn.request
