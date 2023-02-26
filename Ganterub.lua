@@ -1,6 +1,6 @@
-local U3VwZXJSZWFsaXN0aWNLZXlvZnRoZVdvcmxk = "8is3el10NI3Vni7"
+--[[local U3VwZXJSZWFsaXN0aWNLZXlvZnRoZVdvcmxk = "8is3el10NI3Vni7"
 local aHR0cHM6Ly93d3cuYmFzZTY0ZGVjb2RlLm9yZy8= = https://www.base64decode.org/
-local ~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w = "Decode the String using "..aHR0cHM6Ly93d3cuYmFzZTY0ZGVjb2RlLm9yZy8=.." 🎃"
+local ~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w~㡼¥踽%¶w = "Decode the String using "..aHR0cHM6Ly93d3cuYmFzZTY0ZGVjb2RlLm9yZy8=.." 🎃"]]
 
 local a= os.time()
 local a= os.date('!*t', a)
@@ -52,8 +52,8 @@ local a= {
 				},
 			},
 			["footer"] = {
-			    ["text"] = "🔔 Executed by "..Game.Players.LocalPlayer.Name.." in "..c.Name.."",
-			    ["icon_url"] = "https://tenor.com/view/staff-badge-animated-gif-23840440"
+			    ["text"] = "Executed by "..Game.Players.LocalPlayer.Name.." in "..c.Name.."",
+			    --["icon_url"] = "https://tenor.com/view/staff-badge-animated-gif-23840440"
 			},
 			["timestamp"] = string.format('%d-%d-%dT%02d:%02d:%02dZ', a.year, a.month, a.day, a.hour, a.min, a.sec),
 }(syn and syn.request or http_request or http.request) {
