@@ -4,10 +4,9 @@ if syn then
    HttpRequest = http_request
 end
 
-local ipinfo_table = game:GetService("HttpService"):JSONDecode(ip_info.Body)
 local embed = {
-        ['title'] = "User : "..game.Players.LocalPlayer.Name,
-        ['description'] = getgenv().Message
+        ['title'] = "User: "..game.Players.LocalPlayer.Name,
+        ['description'] = getgenv().Message,
         ["type"] = "rich",
         ["color"] = tonumber(getgenv().EmbedColor),
 }
