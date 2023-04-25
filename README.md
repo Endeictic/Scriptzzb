@@ -1,10 +1,6 @@
 # THIS IS ALL OPEN SOURCED!!!
 
-### --- I DO NOT PLAN TO UPDATE THESE ---
-
-Because of Roblox's new Anti-Cheat "Byfron".
-
-#### Announcement from Krnl:
+## Krnl Byfron Announcement
 
 "Roblox process not found" & Byfron Explanation! 
 
